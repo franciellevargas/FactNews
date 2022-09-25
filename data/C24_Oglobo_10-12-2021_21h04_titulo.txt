@@ -1,3 +1,0 @@
-Ataque hacker tira do ar site do Ministério da Saúde e o ConecteSUS.
-
-O aplicativo emite o certificado digital da vacinação contra a Covid. Por causa do ataque, o governo adiou em uma semana a aplicação das regras para entrada de estrangeiros no país.
