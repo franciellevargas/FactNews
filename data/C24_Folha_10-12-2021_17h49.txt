@@ -1,0 +1,23 @@
+O site do Ministério da Saúde saiu do ar na madrugada desta sexta-feira (10) após um ataque hacker. 
+
+Ao tentar acessar o site, usuários encontraram um recado afirmando que os dados do sistema haviam sido copiados e excluídos e estavam nas mãos do grupo invasor.
+
+"Nos contate caso queiram o retorno dos dados", diz a mensagem.
+
+Minutos depois, o recado desapareceu, mas o site continuou fora do ar. 
+
+A plataforma Conecte SUS, que fornece o certificado nacional de vacinação, também saiu do ar.
+
+Em nota, o Ministério da Saúde disse que o ataque "comprometeu temporariamente alguns sistemas da pasta, como o e-SUS Notifica, Sistema de Informação do Programa Nacional de Imunização (SI-PNI), ConecteSUS e funcionalidades como a emissão do Certificado Nacional de Vacinação Covid-19 e da Carteira Nacional de Vacinação Digital, que estão indisponíveis no momento".
+
+A pasta disse ainda que o Gabinete de Segurança Institucional (GSI) e a Polícia Federal foram acionados e que o Departamento de Informática do SUS (Datasus) procura reestabelecer as plataformas.
+
+Não há previsão de quando o serviço voltará ao normal.
+
+Segundo a Polícia Federal, uma análise preliminar constatou que não houve sequestro de dados.
+
+Nas redes sociais, pessoas que conseguiram acessar o aplicativo do Conecte SUS relatam o sumiço das informações sobre vacinação.
+
+Ao clicar no item vacinas, o app mostra a mensagem: "aguarde até 10 dias úteis para que seu registro de vacina apareça no ConecteSUS, caso não aconteça busque o estabelecimento de saúde onde você tomou a vacina e solicite o registro na Rede Nacional de Dados em Saúde (RNDS), do Ministério da Saúde".
+
+Há também relatos sobre dificuldade para fazer login e utilizar outras funções.

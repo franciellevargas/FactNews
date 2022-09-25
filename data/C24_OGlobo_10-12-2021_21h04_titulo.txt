@@ -1,0 +1,17 @@
+O Ministério da Saúde retardou em mais sete dias o início da exigência da quarentena para viajantes não vacinados. Hackers atacaram o site do ministério e o sistema ConecteSUS, que emite o certificado de vacinação contra Covid.
+
+O ataque começou na madrugada desta sexta-feira (10) e afetou diversos sistemas do Ministério da Saúde. Logo cedo, em uma nota, o ministério informou que vários dados estavam indisponíveis.
+
+São informações de milhões de brasileiros que hoje são exigidas para acessar locais públicos em 19 capitais do país. Na página do ConecteSUS, a informação para o usuário era: “Aguarde até 10 dias úteis para que o registro de vacina apareça."
+
+Um grupo hacker assumiu a autoria do ataque. Os invasores publicaram no site do Ministério da Saúde e no ConecteSUS que 50 terabites de dados foram copiados e excluídos, e cobraram um contato do governo para devolver as informações. Pouco antes das 7h, a mensagem foi retirada.
+
+O ataque gerou uma série de problemas. Em vários locais de vacinação acabou provocando aumento nas filas e demora no atendimento. Em Goiânia, por exemplo, o registro da aplicação das doses estava sendo feita manualmente. Em Teresina, a prefeitura registrou a aplicação das doses em um site alternativo. Em Salvador, alguns passageiros foram impedidos de embarcar em ônibus intermunicipais porque, com aplicativo fora do ar, não conseguiram mostrar o comprovante de vacinação.
+
+Rodrigo Fragola, especialista em segurança cibernética, diz que o ataque foi planejado por criminosos.
+
+“Você tem hoje pelo menos uns 100 grandes grupos que estão sendo monitorados pela Interpol, pelas polícias internacionais. Então, a gente não está realmente lidando com estudantes ou com pessoas curiosas, estamos lidando realmente com o crime organizado”, afirma.
+
+
+
+
