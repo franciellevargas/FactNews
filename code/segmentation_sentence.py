@@ -1,5 +1,7 @@
-#/usr/bin/python3.7
 #encoding: utf-8
+#Author: Francielle Vargas
+#Data: 19/09/2022
+#-----------------------------------------------------------------
 
 import pandas as pd
 from pathlib import Path
@@ -26,5 +28,5 @@ df = pd.DataFrame(news, columns=['files', 'sentences'])
 df_final = df[df.sentences.str.contains(r' ')]
 
 print(df_final)
-#df_final.to_csv("/home/fvargas/Documents/FactNews-Dataset/factnews.csv")
+df_final.to_csv("/home/fvargas/Documents/FactNews-Dataset/factnews.csv")
 
