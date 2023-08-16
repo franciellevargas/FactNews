@@ -25,7 +25,7 @@
 
 | Media 1        | Media 2  | Media 3 | 
 | :---           | :---:    |   ---: |  
-| Folha de são   | Estadão  | O Globo    | 
+| Folha de São Paulo   | Estadão  | O Globo    | 
 </div>
 </br>
 
@@ -34,7 +34,7 @@
 
 | Sentence-Level Media Bias Prediction   | Sentenve-Level Factuality Prediction  |
 | :---                                   | :---:    |   
-| F1-Score of 0.67                       | F1-Score of 0.88  | 
+| 67 % (F1-Score) by BERT Fine-Tuning    | 0.88 % (F1-Score) by BERT-Fine Tuning  | 
 </div>
 </br>
 <h2 align="left"> CITING </h2>
