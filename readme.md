@@ -34,7 +34,7 @@
 
 | Sentence-Level Media Bias Prediction   | Sentenve-Level Factuality Prediction  |
 | :---                                   | :---:    |   
-| 67 % (F1-Score) by BERT Fine-Tuning    | 0.88 % (F1-Score) by BERT-Fine Tuning  | 
+| 67% (F1-Score) by BERT Fine-Tuning    | 0.88% (F1-Score) by BERT-Fine Tuning  | 
 </div>
 </br>
 <h2 align="left"> CITING </h2>
