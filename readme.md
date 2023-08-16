@@ -20,6 +20,23 @@
 </div>
 </br>
 
+</br>
+<div align="center">
+
+| Media 1        | Media 2  | Media 3 | 
+| :---           | :---:    |   ---: |  
+| Folha de são   | Estadão  | O Globo    | 
+</div>
+</br>
+
+</br>
+<div align="center">
+
+| Sentence-Level Media Bias Prediction   | Sentenve-Level Factuality Prediction  |
+| :---                                   | :---:    |   
+| F1-Score of 0.67                       | F1-Score of 0.88  | 
+</div>
+</br>
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
