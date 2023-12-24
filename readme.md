@@ -50,7 +50,7 @@ Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). Predicting Sentenc
 <h2 align="left"> FUNDING </h2>
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/e4f368b58503962a16b3713d40264be71780af72/img/google-logo.png)
-![SSC-logo-500x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)
+![SSC-logo-500x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/b4c3791028ffefa4fb156c245abf766887a69141/img/fapesp.jpg)
 
 
 </br>
