@@ -41,7 +41,7 @@
 
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). Predicting Sentence-Level Factuality of News and Bias of Media Outlets. Proceedings of the Recent Advances in Natural Language Processing, pp.1-10. Varna, Bulgaria. Association for Computational Linguistics (ACL). 
+Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). Predicting Sentence-Level Factuality of News and Bias of Media Outlets. Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pp.1197--1206. Varna, Bulgaria. Association for Computational Linguistics (ACL). 
 </p>
 
 
