@@ -62,7 +62,8 @@ Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). Predicting Sentenc
     address = "Varna, Bulgaria",
     publisher = "INCOMA Ltd., Shoumen, Bulgaria",
     url = "https://aclanthology.org/2023.ranlp-1.127",
-    pages = "1197--1206"}
+    pages = "1197--1206",
+    }
  </p> 
 <br>
 
