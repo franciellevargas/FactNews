@@ -37,18 +37,37 @@
 | 67% (F1-Score) by BERT Fine-Tuning    | 88% (F1-Score) by BERT-Fine Tuning  | 
 </div>
 </br>
-<h2 align="left"> CITING </h2>
 
+
+<h2 align="left"> CITING </h2>
 <p align="justify">
 Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). Predicting Sentence-Level Factuality of News and Bias of Media Outlets. Proceedings of the Recent Advances in Natural Language Processing, pp.1-10. Varna, Bulgaria. Association for Computational Linguistics (ACL). 
-
 </p>
 
 
+
+<h2 align="left"> BIBTEX </h2>
+<p align="justify">
+@inproceedings{vargas-etal-2023-predicting,
+    title = "Predicting Sentence-Level Factuality of News and Bias of Media Outlets",
+    author = "Vargas, Francielle  and
+      Jaidka, Kokil  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.127",
+    pages = "1197--1206"}
+ </p> 
 <br>
 
-<h2 align="left"> FUNDING </h2>
 
+<h2 align="left"> FUNDING </h2>
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/e4f368b58503962a16b3713d40264be71780af72/img/google-logo.png)
 
 
