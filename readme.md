@@ -34,7 +34,7 @@
 
 | Sentence-Level Media Bias Prediction   | Sentenve-Level Factuality Prediction  |
 | :---                                   | :---:    |   
-| 67% (F1-Score) by BERT Fine-Tuning    | 88% (F1-Score) by BERT-Fine Tuning  | 
+| 67% (F1-Score) by mBERT Fine-Tuning    | 88% (F1-Score) by mBERT-Fine Tuning  | 
 </div>
 </br>
 
