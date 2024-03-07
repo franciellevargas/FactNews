@@ -1,12 +1,9 @@
 
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)     ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c2ecbc54df5719102d068370b3eca9dacea8334/.github/locus_media.png)
-
-
 <h2 align="center"> Sentence-Level Annotated Dataset to Predict Factuality and Media Bias </h2>  
 
 
 </br>
-<p align="justify">Automated news credibility and fact-checking at scale require accurate prediction of news factuality and media bias. Here, we introduce a large sentence-level dataset, titled FactNews, composed of 6,191 sentences expertly annotated according to factuality and media bias definitions proposed by AllSides. We use FactNews to assess the overall reliability of news sources by formulating two text classification problems for predicting sentence-level factuality of news reporting and bias of media outlets. Our experiments demonstrate that biased sentences present a higher number of words compared to factual sentences, besides having a predominance of emotions. Hence, the fine-grained analysis of subjectivity and impartiality of news articles showed promising results for predicting the reliability of the entire media outlet. Finally, due to the severity of fake news and political polarization in Brazil, and the lack of research for Portuguese, both dataset and baseline were proposed for Brazilian Portuguese. The following table describes in detail the labels, documents, and stories for FactNews: </p>
+<p align="justify">Automated fact-checking and news credibility verification at scale require accurate prediction of news factuality and media bias. Here, we introduce a large sentence-level dataset, titled FactNews, composed of 6,191 sentences expertly annotated according to factuality and media bias definitions proposed by AllSides. We use FactNews to assess the overall reliability of news sources by formulating two text classification problems for predicting sentence-level factuality of news reporting and bias of media outlets. Our experiments demonstrate that biased sentences present a higher number of words compared to factual sentences, besides having a predominance of emotions. Hence, the fine-grained analysis of subjectivity and impartiality of news articles showed promising results for predicting the reliability of the entire media outlet. Finally, due to the severity of fake news and political polarization in Brazil, and the lack of research for Portuguese, both dataset and baseline were proposed for Brazilian Portuguese. The following table describes in detail the labels, documents, and stories for FactNews: </p>
 </br>
 
 </br>
