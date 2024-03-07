@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/{7868597}.svg)](https://zenodo.org/badge/latestdoi/{7868597})
+[![DOI](https://zenodo.org/badge/#19657817.svg)](https://zenodo.org/badge/latestdoi/#19657817)
 
 <h2 align="center"> Sentence-Level Annotated Dataset to Predict Factuality and Media Bias </h2>  
 
