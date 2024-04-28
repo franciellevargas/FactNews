@@ -1,7 +1,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794023.svg)](https://doi.org/10.5281/zenodo.10794023)
 
-<h2 align="center"> Sentence-Level Annotated Dataset to Predict Factuality and Media Bias in Portuguese </h2>  
+<h2 align="center"> Sentence-Level Annotated Dataset for Predicting Factuality of News and Bias of Media Outlets in Portuguese </h2>  
 
 </br>
 <p align="justify">Automated fact-checking and news credibility verification at scale require accurate prediction of news factuality and media bias. Here, we introduce a large sentence-level dataset, titled FactNews, composed of 6,191 sentences expertly annotated according to factuality and media bias definitions proposed by AllSides. We use FactNews to assess the overall reliability of news sources by formulating two text classification problems for predicting sentence-level factuality of news reporting and bias of media outlets. Our experiments demonstrate that biased sentences present a higher number of words compared to factual sentences, besides having a predominance of emotions. Hence, the fine-grained analysis of subjectivity and impartiality of news articles showed promising results for predicting the reliability of the entire media outlet. Finally, due to the severity of fake news and political polarization in Brazil, and the lack of research for Portuguese, both dataset and baseline were proposed for Brazilian Portuguese. The following table describes in detail the labels, documents, and stories for FactNews: </p>
