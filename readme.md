@@ -29,9 +29,9 @@
 </br>
 <div align="center">
 
-| Sentence-Level Media Bias Prediction   | Sentenve-Level Factuality Prediction  |
-| :---                                   | :---:    |   
-| 67% (F1-Score) by mBERT Fine-Tuning    | 88% (F1-Score) by mBERT-Fine Tuning  | 
+| Sentence-Level Media Bias Prediction     | Sentenve-Level Factuality Prediction  |
+| :---                                     | :---:                                 |   
+| 67% (F1-Score) by Fine-tuned mBert-case  | 88% (F1-Score) by Fine Tune mBert-case|
 </div>
 </br>
 
