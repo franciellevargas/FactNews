@@ -67,7 +67,7 @@ Vargas, F., Jaidka, K., Pardo, T.A.S., Benevenuto, F. (2023). <b>Predicting Sent
 
 <h2 align="left"> FUNDING </h2>
 
-[![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/4a6d4f3fd538d4255287b0988fa15669d75446e5/img/google-logo-menor.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/4a6d4f3fd538d4255287b0988fa15669d75446e5/img/google-logo-menor.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/92143a7500195e8bfda14c7c0dfe09bf3e996fad/img/locus_media.png)
 
 
